@@ -45,7 +45,7 @@ blocks:
           extraordinary moments.
     _template: featureList
   - label: Announcement
-    featuredPost: content/posts/inspired-interface.md
+    featuredPost: content/posts/test_CMS.md
     _template: featuredReading
 ---
 

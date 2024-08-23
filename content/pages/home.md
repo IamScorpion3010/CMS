@@ -43,7 +43,7 @@ blocks:
           extraordinary moments.
     _template: featureList
   - label: Announcement
-    featuredPost: content/posts/call-themes.md
+    featuredPost: content/posts/inspired-interface.md
     _template: featuredReading
 ---
 
